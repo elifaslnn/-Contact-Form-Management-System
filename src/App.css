@@ -1,0 +1,23 @@
+/* App.css */
+.main {
+  padding: 20px;
+  background-color: #d0b8a8;
+  color: rgb(138, 47, 27);
+}
+
+.phone,
+.mail {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.phone svg,
+.mail svg {
+  margin-right: 10px;
+}
+.container {
+  height: 900vw;
+  background-color: #d0b8a8;
+  padding-top: 100px;
+}
